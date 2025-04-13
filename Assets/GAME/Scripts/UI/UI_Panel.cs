@@ -6,9 +6,6 @@ public class UI_Panel : MonoBehaviour
 {
     [SerializeField] private Image _backgroud;
     [SerializeField] private CanvasGroup _canvasGroup;
-    [SerializeField] private GameObject _panel;
-
-    [SerializeField] private float _openAlpha;
 
     [SerializeField] private float _openDuration;
     [SerializeField] private float _closeDuration;
