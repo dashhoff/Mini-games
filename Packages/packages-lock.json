@@ -1,5 +1,6 @@
 {
   "dependencies": {
+
     "com.merry-yellow.code-assist": {
       "version": "file:com.merry-yellow.code-assist",
       "depth": 0,
@@ -89,6 +90,7 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
+
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 2,
