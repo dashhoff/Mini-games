@@ -26,6 +26,7 @@ public class UI_Panel : MonoBehaviour
             .Append(_canvasGroup.DOFade(0, _closeDuration)).OnComplete(() =>
             {
                 _backgroud.gameObject.SetActive(false);
+                gameObject.SetActive(false);
             });
     }
 }
