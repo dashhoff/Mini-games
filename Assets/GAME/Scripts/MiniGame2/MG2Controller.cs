@@ -40,7 +40,5 @@ public class MG2Controller : MonoBehaviour
 
         SpriteRenderer obgSprite = obj.GetComponent<SpriteRenderer>();
         obgSprite.color = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
-
-
     }
 }
