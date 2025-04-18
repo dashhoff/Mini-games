@@ -14,6 +14,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GAME/Scenes/MiniGame1.unity
     guid: 298f11c017ce97646a09ed46e2379dae
+  - enabled: 1
+    path: Assets/GAME/Scenes/MiniGame2.unity
+    guid: 49f575a4717402c42a61e021862ded2b
+  - enabled: 1
+    path: Assets/GAME/Scenes/MiniGame3.unity
+    guid: a60da05fa0e652148a538edcb2719f30
+  - enabled: 1
+    path: Assets/GAME/Scenes/MiniGame4.unity
+    guid: 2b087d70dd488ad42969925cdcb82bb7
+  - enabled: 1
+    path: Assets/GAME/Scenes/MiniGame5.unity
+    guid: ff6e1b831882fa545b2d2481bd6bed07
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3d97c1798eedc0c4c91cfbde40d63b9a, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

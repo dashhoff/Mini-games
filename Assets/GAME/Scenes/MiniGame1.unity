@@ -1622,7 +1622,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7010583217940199165, guid: ed9fd3848a82c5b4eae6042a01b519cf, type: 3}
       propertyPath: m_Name
-      value: PlayButton
+      value: PauseButton
       objectReference: {fileID: 0}
     - target: {fileID: 7412519012360892241, guid: ed9fd3848a82c5b4eae6042a01b519cf, type: 3}
       propertyPath: m_Enabled
