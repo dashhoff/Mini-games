@@ -26,6 +26,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GAME/Scenes/MiniGame5.unity
     guid: ff6e1b831882fa545b2d2481bd6bed07
+  - enabled: 1
+    path: Assets/GAME/Scenes/MiniGame6.unity
+    guid: 7d261467448a70a429fcd15cdd848555
+  - enabled: 1
+    path: Assets/GAME/Scenes/MiniGame7.unity
+    guid: 2b3d7d759f4e20f4482ae693f13ca804
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3d97c1798eedc0c4c91cfbde40d63b9a, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
